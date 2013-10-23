@@ -1,7 +1,7 @@
 == README
 
-Hi,
-This is the first application for a Ruby on Rails tutorial.
+# Hi,
+# This is the first application for a Ruby on Rails tutorial.
 
 * tonstrina.
 
